@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iucM2EM0EwWXvkvuy82lBIuEoiyCIABzgOxHg6fQo3hN0MT9IwB8gTzdZ7yLEFuY1X1ynxnUarJkfhGtJ8ZeTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stephany Castillo\\Desktop\\C-Sharp\\MetodosDemo\\MetodosDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stephany Castillo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Stephany Castillo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

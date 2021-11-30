@@ -1,0 +1,13 @@
+C:\Users\Stephany Castillo\Desktop\C-Sharp\MetodosDemo\bin\Debug\netcoreapp3.1\MetodosDemo.exe
+C:\Users\Stephany Castillo\Desktop\C-Sharp\MetodosDemo\bin\Debug\netcoreapp3.1\MetodosDemo.deps.json
+C:\Users\Stephany Castillo\Desktop\C-Sharp\MetodosDemo\bin\Debug\netcoreapp3.1\MetodosDemo.runtimeconfig.json
+C:\Users\Stephany Castillo\Desktop\C-Sharp\MetodosDemo\bin\Debug\netcoreapp3.1\MetodosDemo.runtimeconfig.dev.json
+C:\Users\Stephany Castillo\Desktop\C-Sharp\MetodosDemo\bin\Debug\netcoreapp3.1\MetodosDemo.dll
+C:\Users\Stephany Castillo\Desktop\C-Sharp\MetodosDemo\bin\Debug\netcoreapp3.1\MetodosDemo.pdb
+C:\Users\Stephany Castillo\Desktop\C-Sharp\MetodosDemo\obj\Debug\netcoreapp3.1\MetodosDemo.csprojAssemblyReference.cache
+C:\Users\Stephany Castillo\Desktop\C-Sharp\MetodosDemo\obj\Debug\netcoreapp3.1\MetodosDemo.AssemblyInfoInputs.cache
+C:\Users\Stephany Castillo\Desktop\C-Sharp\MetodosDemo\obj\Debug\netcoreapp3.1\MetodosDemo.AssemblyInfo.cs
+C:\Users\Stephany Castillo\Desktop\C-Sharp\MetodosDemo\obj\Debug\netcoreapp3.1\MetodosDemo.csproj.CoreCompileInputs.cache
+C:\Users\Stephany Castillo\Desktop\C-Sharp\MetodosDemo\obj\Debug\netcoreapp3.1\MetodosDemo.dll
+C:\Users\Stephany Castillo\Desktop\C-Sharp\MetodosDemo\obj\Debug\netcoreapp3.1\MetodosDemo.pdb
+C:\Users\Stephany Castillo\Desktop\C-Sharp\MetodosDemo\obj\Debug\netcoreapp3.1\MetodosDemo.genruntimeconfig.cache
